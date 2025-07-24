@@ -214,3 +214,7 @@
 [2025-07-24 14:57:44] local.INFO: ✅ Import completed for incomes. Total imported: 1902  
 [2025-07-24 14:58:15] local.ERROR: ❌ Failed to fetch stocks on page 1: {"dateFrom":["The date from must be a date after yesterday."]}  
 [2025-07-24 14:58:15] local.INFO: ✅ Import completed for stocks. Total imported: 0  
+[2025-07-24 14:59:04] local.INFO: ✅ Import completed for stocks. Total imported: 2335  
+[2025-07-24 15:03:02] local.INFO: ✅ Import completed for stocks. Total imported: 2335  
+[2025-07-24 15:05:25] local.INFO: ✅ Import completed for stocks. Total imported: 2335  
+[2025-07-24 15:08:13] local.INFO: ✅ Import completed for stocks. Total imported: 2335  
